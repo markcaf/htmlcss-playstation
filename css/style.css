@@ -1,9 +1,26 @@
 /* Custom CSS */
+
+/* HEADER */
 .logo_sony{
     width: 80px;
     padding: 10px 0;
 }
 
-.top_nav{
-    background-color: black;
+.btn{
+    border-radius: 20px;
 }
+
+.bi-search{
+    font-size: 24px;
+}
+
+header .btn{
+    margin: 0 20px;
+}
+
+@media all and (max-width:991px) {
+    header .btn{
+        margin: 0 0;
+    }
+}
+/* /HEADER */
