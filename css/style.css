@@ -108,3 +108,14 @@ header .btn{
     border-bottom: solid 3px #0d79d0;
 }
 /* SECTION 4 */
+
+/* SECTION 5 - HERO 2*/
+#hero_2{
+    background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
+}
+
+#hero_2 .container{
+    position: absolute;
+    top: 50px;
+}
+/* /SECTION 5 */
