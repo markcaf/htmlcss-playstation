@@ -72,7 +72,7 @@ header .btn{
 }
 /* /SECTION 2 */
 
-/* /SECTION 3 */
+/* /SECTION 3 - INTRO*/
 .ms_subtitle{
     color: #0474cf;
     font-weight: bold;
@@ -84,3 +84,27 @@ header .btn{
     color: #787878;
 }
 /* SECTION 3 */
+
+/* SECTION 4 - CONSOLE PS5*/
+.featured_img{
+    width: 100%;
+}
+
+.ms_box_ps5{
+    width: 100%;
+}
+
+@media all and (min-width:768px) {
+    .ms_box_ps5{
+        width: 60%;
+    }
+}
+
+.ms_opacity{
+    opacity: 0.6;
+}
+
+.ms_active{
+    border-bottom: solid 3px #0d79d0;
+}
+/* SECTION 4 */
