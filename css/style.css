@@ -56,8 +56,15 @@ header .btn{
     position: relative;
 }
 
-.ms_hero .container-fluid{
+.ms_hero .container{
     position: absolute;
     top: 300px;
 }
-/* /SECTION 1 - HERO */
+/* /SECTION 1*/
+
+/* SECTION 2 - BOX GAMES */
+.ms_game{
+    width: 100%;
+    border-radius: 20px;
+}
+/* /SECTION 2 */
