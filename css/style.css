@@ -119,3 +119,22 @@ header .btn{
     top: 50px;
 }
 /* /SECTION 5 */
+
+/* SECTION 6 - NEW ARRIVALS */
+#new-arrivals{
+    background-color: #1f1f1f;
+}
+
+#new-arrivals .ms_title{
+    font-size: 35px;
+}
+
+.new_game_img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.new_game_title{
+    font-size: 18px;
+}
+/* /SECTION 6 */
