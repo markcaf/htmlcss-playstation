@@ -159,3 +159,12 @@ header .btn{
 }
 /* /SECTION 9 */
 
+/* SECTION 11 - PS NOW */
+#ps_now{
+    background-color: #161c3b;
+}
+
+#ps_now .featured_img{
+    width: 65%;
+}
+/* /SECTION 11 */
