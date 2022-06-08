@@ -178,3 +178,22 @@ header .btn{
     max-width: 576px;
 }
 /* /SECTION 12 */
+
+/* FOOTER */
+footer{
+    background-color: #00439c;
+}
+
+.ms_logo_footer{
+    width: 100px;
+}
+
+.ms_sie{
+    width: 150px;
+}
+
+@media all and (min-width:768px){
+    .copyright{
+        font-size: 15px;
+    }
+}
