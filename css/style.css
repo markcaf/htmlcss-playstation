@@ -77,9 +77,18 @@ ul.ms_ul_links li::before {
     margin: 0 20px 0 0;
 }
 
+.ms_link_divider:hover{
+    color: blue;
+    cursor: pointer;
+}
+
 .ms_ps5_icon{
     width: 60%;
     margin: 0 auto;
+}
+
+header .container-fluid .col:hover{
+    cursor: pointer;
 }
 
 
