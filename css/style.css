@@ -129,6 +129,18 @@ ul.ms_ul_links li::before {
 .ms_game{
     width: 100%;
     border-radius: 20px;
+    transition: 0.2s ease-in-out;
+}
+
+.game_active{
+    outline-style: solid;
+    outline-width: 3px;
+    outline-color: #0f7ad1;
+    outline-offset: 4px;
+}
+
+.ms_game:hover{
+    margin-top: -12px;
 }
 /* /SECTION 2 */
 
