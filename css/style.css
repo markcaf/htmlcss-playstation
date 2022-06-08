@@ -144,3 +144,17 @@ header .btn{
     font-size: 19px;
 }
 /* /SECTION 7-8 */
+
+/* SECTION 9 - PS PLUS */
+#ps_plus{
+    background-color: #bebcbb;
+}
+
+#ps_plus .featured_img{
+    width: 65%;
+}
+
+.ms_plus_games{
+    width: 100%;
+}
+/* /SECTION 9 */
