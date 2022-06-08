@@ -17,6 +17,20 @@ body h1{
     border-radius: 20px;
 }
 
+.btn:hover{
+    outline-style: double;
+    outline-width: 2px;
+    outline-color: blue;
+    outline-offset: 3px;
+}
+
+header .btn:hover{
+    outline-style: double;
+    outline-width: 2px;
+    outline-color: black;
+    outline-offset: 3px;
+}
+
 .bi-search{
     font-size: 24px;
 }
@@ -102,6 +116,13 @@ ul.ms_ul_links li::before {
     position: absolute;
     top: 300px;
 }
+
+#hero_1 .btn:hover{
+    outline-style: double;
+    outline-width: 2px;
+    outline-color: red;
+    outline-offset: 3px;
+}
 /* /SECTION 1*/
 
 /* SECTION 2 - BOX GAMES */
@@ -157,6 +178,13 @@ ul.ms_ul_links li::before {
     position: absolute;
     top: 50px;
 }
+
+#hero_2 .btn:hover{
+    outline-style: double;
+    outline-width: 2px;
+    outline-color: red;
+    outline-offset: 3px;
+}
 /* /SECTION 5 */
 
 /* SECTION 6 - NEW ARRIVALS */
@@ -205,6 +233,13 @@ ul.ms_ul_links li::before {
 
 #ps_now .featured_img{
     width: 65%;
+}
+
+#ps_now .btn:hover{
+    outline-style: double;
+    outline-width: 2px;
+    outline-color: black;
+    outline-offset: -4px;
 }
 /* /SECTION 11 */
 
