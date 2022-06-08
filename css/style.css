@@ -168,3 +168,13 @@ header .btn{
     width: 65%;
 }
 /* /SECTION 11 */
+
+/* SECTION 12 - SOCIAL */
+.ms_social_logo{
+    width: 100%;
+}
+
+#social .container{
+    max-width: 576px;
+}
+/* /SECTION 12 */
