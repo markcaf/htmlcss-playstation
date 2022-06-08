@@ -167,6 +167,11 @@ ul.ms_ul_links li::before {
 .ms_active{
     border-bottom: solid 3px #0d79d0;
 }
+
+.ms_opacity:hover{
+    opacity: 1;
+    border-bottom: solid 3px #0d79d0;
+}
 /* SECTION 4 */
 
 /* SECTION 5 - HERO 2*/
