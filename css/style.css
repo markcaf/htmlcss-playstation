@@ -32,6 +32,45 @@ header .btn{
 }
 /* /HEADER */
 
+/* DROPDOWN */
+ul.dropdown-menu{
+    background-color: white;
+    border: none;
+    width: 100%;
+    border-radius: 0;
+}
+
+.navbar{
+    padding-bottom: 0;
+}
+
+header .nav-item{
+    position: static;
+}
+
+ul.ms_ul_links {
+    list-style: none;
+  }
+  
+ul.ms_ul_links li::before {
+    content: "\2022";
+    color: blue;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.ms_link_divider{
+    margin: 0 20px 0 0;
+}
+
+.ms_ps5_icon{
+    width: 60%;
+    margin: 0 auto;
+}
+
+
+/* /DROPDOWN */
+
 /* SECTION 1 - HERO */
 #hero_1{
     margin-top: 110px;
@@ -197,3 +236,4 @@ footer{
         font-size: 15px;
     }
 }
+/* /FOOTER */
