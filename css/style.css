@@ -113,8 +113,7 @@ ul.ms_ul_links li::before {
 }
 
 .ms_hero .container{
-    position: absolute;
-    top: 300px;
+    padding-top: 300px;
 }
 
 #hero_1 .btn:hover{
@@ -192,8 +191,7 @@ ul.ms_ul_links li::before {
 }
 
 #hero_2 .container{
-    position: absolute;
-    top: 50px;
+    padding-top: 50px;
 }
 
 #hero_2 .btn:hover{
